@@ -36,11 +36,11 @@ Power BI | DAX | Power Query | Data Modeling | Excel
 
 #### Demand & Order Forecasting Overview
 
-
+![Dashboard Overview](./Dashboard_Overview.png)
 
 #### Order Load & Product Analysis
 
-
+![Order Load Analysis](./Order_Load_Analysis.png)
 
 ### Data Privacy
 
